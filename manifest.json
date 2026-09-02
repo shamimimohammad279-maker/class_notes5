@@ -1,0 +1,48 @@
+{
+  "id": "/class-notes5",
+  "name": "Class Notes - مدرسه نت‌برداری",
+  "short_name": "Class Notes",
+  "description": "ثبت نکات مهم کلاس، مدیریت جلسات، پیوست فایل و ساخت پرامپت برای هوش مصنوعی.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#10241d",
+  "theme_color": "#10241d",
+  "lang": "fa",
+  "dir": "rtl",
+  "categories": [
+    "education",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/mobile-day.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Class Notes در حالت روز"
+    },
+    {
+      "src": "screenshots/mobile-night.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Class Notes در حالت شب"
+    }
+  ]
+}
